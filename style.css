@@ -60,6 +60,7 @@ main { padding-top: 1.25rem; padding-bottom: 2rem; }
 
 h1 { font-size: 1.75rem; line-height: 1.25; margin: 1.25rem 0 .25rem; }
 h2 { font-size: 1.15rem; line-height: 1.35; margin: 1.75rem 0 .5rem; }
+h3 { font-size: 1.05rem; line-height: 1.35; margin: 1.5rem 0 .4rem; }
 
 p, li { overflow-wrap: anywhere; }
 li { margin: .25rem 0; }
